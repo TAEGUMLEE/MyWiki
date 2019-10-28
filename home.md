@@ -1,5 +1,7 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: 똘창의 위키 입니다 -->
 
 # DDOL'S Wiki
+
+똘창 위키는 개인적으로 정리하고 싶은 내용을 정리해 놓는 정리 겸 정보 저장용 위키입니다
 
